@@ -1,0 +1,5 @@
+export const actionTypes = {
+    PENDING: "FETCH_WEATHER_PENDING",
+    SUCCESS: "FETCH_WEATHER_SUCCESS",
+    FAIL: "FETCH_WEATHER_FAIL"
+}
